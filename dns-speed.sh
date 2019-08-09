@@ -16,7 +16,7 @@ touch $temp_file
 while read i; do
     dns=`echo $i | awk -F ',' '{print $1}'`
     ip=`echo $i | awk -F ',' '{print $2}'`
-    response=`dig @$ip $name | grep 'Query time' | awk '{print $4}'`
+    response=`dig +timeout=1 @$ip $name | grep 'Query time' | awk '{print $4}'`
     if [ -z "$response"  ]; then
         echo $dns $ip "not responding"
     else
