@@ -1,0 +1,102 @@
+Alestra,200.94.26.115
+Alestra,201.151.190.138
+Alestra,207.248.255.28
+Alhel.com.mx,187.210.6.184
+Alternate DNS,198.101.242.72
+Alternate DNS,23.253.163.53
+Avantel,148.243.155.160
+Avantel,148.245.196.68
+Avantel,200.38.67.140
+Axtel,148.240.167.69
+Axtel,189.209.127.245
+Cableonline,200.95.144.3
+Cableonline,201.160.15.167
+Censurfridns,89.233.43.71
+Censurfridns,91.239.100.100
+Christoph Hochstätter,209.59.210.167
+Christoph Hochstätter,85.214.117.11
+ClaraNet,212.82.225.7
+ClaraNet,212.82.226.212
+Cloudflare,1.0.0.1
+Cloudflare,1.1.1.1
+Comodo Secure DNS,8.20.247.20
+Comodo Secure DNS,8.26.56.26
+DNSReactor,104.236.210.29
+DNSReactor,45.55.155.25
+DNS.Watch,84.200.69.80
+DNS.Watch,84.200.70.40
+Dyn,216.146.35.35
+Dyn,216.146.36.36
+FDN,80.67.169.12
+FoeBud,85.214.73.63
+FoolDNS,213.187.11.62
+FoolDNS,87.118.111.215
+FreeDNS,37.235.1.174
+FreeDNS,37.235.1.177
+Freenom World,80.80.80.80
+Freenom World,80.80.81.81
+German Privacy Foundation e.V.,62.141.58.13
+German Privacy Foundation e.V.,85.25.251.254
+German Privacy Foundation e.V.,87.118.100.175
+German Privacy Foundation e.V.,94.75.228.29
+Google Public DNS,8.8.4.4
+Google Public DNS,8.8.8.8
+GreenTeamDNS,209.88.198.133
+GreenTeamDNS,81.218.119.11
+gtel.net.mx.,201.140.141.11
+Hurricane Electric,74.82.42.42
+Infinitum 200.23.242.201
+Infinitum 200.23.242.193
+Infinitum 200.33.146.193
+Infinitum 200.33.146.201
+Infinitum 200.33.146.209
+Infinitum 200.33.148.193
+kionetworks,201.175.22.25
+Level3,209.244.0.3
+Level3,209.244.0.4
+Marcatel,200.56.224.11
+Maypo,148.244.127.67
+Megared,189.197.187.35
+Multimedios.net,207.248.55.246
+Nacionaldeacero.com,200.56.120.124
+Neustar DNS Advantage,156.154.70.1
+Neustar DNS Advantage,156.154.71.1
+New Nations,185.82.22.133
+New Nations,5.45.96.220
+Norton DNS,198.153.192.1
+Norton DNS,198.153.194.1
+OpenDNS,208.67.220.220
+OpenDNS,208.67.222.222
+OpenNIC,119.31.230.42
+OpenNIC,200.252.98.162
+OpenNIC,203.167.220.153
+OpenNIC,207.192.69.155
+OpenNIC,216.87.84.211
+OpenNIC,217.79.186.148
+OpenNIC,58.6.115.42
+OpenNIC,58.6.115.43
+OpenNIC,66.244.95.20
+OpenNIC,72.14.189.120
+OpenNIC,78.159.101.37
+OpenNIC,81.89.98.6
+OpenNIC,82.229.244.191
+PeerDNS,178.21.23.150
+PeerDNS,205.204.88.60
+PowerNS,194.145.226.26
+PowerNS,77.220.232.44
+puntCAT,109.69.8.51
+Quad9,9.9.9.9
+Sateltrack,148.244.127.104
+simapag.gob.mx.,187.174.176.230
+Telumasp.net.,207.248.57.11
+TotalPlay,187.188.182.117
+TotalPlay,187.190.67.104
+TotalPlay,187.190.73.18
+TotalPlay,189.203.191.26
+TotalPlay,189.203.9.172
+Uninet,148.233.10.2
+Uninet,187.130.63.137
+Uninet,187.174.158.114
+Uninet,187.210.98.231
+Uninet,201.144.135.211
+Uninet,201.147.98.2
