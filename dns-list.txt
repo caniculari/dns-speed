@@ -45,12 +45,12 @@ GreenTeamDNS,209.88.198.133
 GreenTeamDNS,81.218.119.11
 gtel.net.mx.,201.140.141.11
 Hurricane Electric,74.82.42.42
-Infinitum 200.23.242.201
-Infinitum 200.23.242.193
-Infinitum 200.33.146.193
-Infinitum 200.33.146.201
-Infinitum 200.33.146.209
-Infinitum 200.33.148.193
+Infinitum,200.23.242.201
+Infinitum,200.23.242.193
+Infinitum,200.33.146.193
+Infinitum,200.33.146.201
+Infinitum,200.33.146.209
+Infinitum,200.33.148.193
 kionetworks,201.175.22.25
 Level3,209.244.0.3
 Level3,209.244.0.4
