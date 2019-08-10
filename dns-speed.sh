@@ -14,20 +14,20 @@ touch $temp_file
 
 # Test the dns servers listed on the dns-list.txt file
 while read i; do
-    dns=`echo $i | awk -F ',' '{print $1}'`
-    ip=`echo $i | awk -F ',' '{print $2}'`
-    response=`dig +timeout=1 @$ip $name | grep 'Query time' | awk '{print $4}'`
-    if [ -z "$response"  ]; then
-        echo $dns $ip "not responding"
-    else
-        printf "%s" $dns
-        printf "\t%s\t" $ip
-        printf "%s msec\n" $response
+        dns=`echo $i | awk -F ',' '{print $1}'`
+        ip=`echo $i | awk -F ',' '{print $2}'`
+        response=`dig +timeout=1 @$ip $name | grep 'Query time' | awk '{print $4}'`
+        if [ -z "$response"  ]; then
+            echo $dns $ip "not responding"
+        else
+            printf "%s" $dns
+            printf "\t%s\t" $ip
+            printf "%s msec\n" $response
 
-        echo $response msec $dns $ip  >>$temp_file
+            echo $response msec $dns $ip  >>$temp_file
 
 
-    fi
+        fi
 done <dns-list.txt
 
 # Print your fastest DNS
